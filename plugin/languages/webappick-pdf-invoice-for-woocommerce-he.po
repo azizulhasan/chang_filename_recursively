@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-01-12 12:58+0600\n"
+"PO-Revision-Date: 2021-03-17 16:49+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+
+#: includes/class-challan-pro-template.php:715
+msgid "Billing"
+msgstr "חיוב"
+
+#: includes/class-challan-pro-template.php:716
+#: includes/class-challan-pro-template.php:1253
+msgid "Shipping"
+msgstr "משלוח"
+
+#: admin/partials/challan-pro-admin-display.php:1600
+#: admin/partials/challan-pro-admin-display.php:1903
+#: includes/class-challan-pro-template.php:759
+msgid "Order Number"
+msgstr "מספר הזמנה"
+
+#: includes/class-challan-pro-template.php:764
+msgid "Order Date"
+msgstr "תאריך הזמנה"
+
+#: admin/partials/challan-pro-admin-display.php:1872
+#: includes/class-challan-pro-template.php:742
+msgid "Invoice Number"
+msgstr "מספר חשבונית"
+
+#: includes/class-challan-pro-template.php:1298
+msgid "Net Payment"
+msgstr "תשלום נטו"
+
+#: includes/class-challan-pro-template.php:775
+msgid "Shipping Method"
+msgstr "שיטת משלוח"
+
+#: includes/class-challan-pro-template.php:769
+msgid "Payment Method"
+msgstr "אמצעי תשלום"
+
+#: includes/class-challan-pro-template.php:782
+msgid "Delivery Date"
+msgstr "תאריך הספקה"
+
+#: includes/class-challan-pro-template.php:788
+msgid "Time Slot"
+msgstr "משבצת זמן"
+
+#: admin/partials/challan-pro-admin-display.php:178
+#: admin/partials/challan-pro-admin-display.php:4166
+#: includes/class-challan-pro-hooks.php:708
+msgid "Invoice"
+msgstr "חשבונית"
+
+#: admin/partials/challan-pro-admin-display.php:186
+#: admin/partials/challan-pro-admin-display.php:4167
+#: includes/class-challan-pro-hooks.php:523
+#: includes/class-challan-pro-hooks.php:713
+#: includes/class-challan-pro-hooks.php:794
+msgid "Packing Slip"
+msgstr "דף משלוח"
+
+#: admin/partials/challan-pro-admin-display.php:226
+#: includes/class-challan-pro-hooks.php:719
+#: includes/class-challan-pro-hooks.php:804
+msgid "Delivery Address"
+msgstr "תווית משלוח"
+
+#: includes/class-challan-pro-hooks.php:580
+#: includes/class-challan-pro-hooks.php:663
+#: includes/class-challan-pro-template.php:225
+msgid "Credit Note"
+msgstr "שטר אשראי"
+
+#: includes/class-challan-pro-template.php:1082
+msgid "Cost"
+msgstr "עלות"
+
+#: includes/class-challan-pro-template.php:1106
+msgid "Quantity"
+msgstr "כמות"
+
+#: includes/class-challan-pro-template.php:1329
+msgid "Total Quantity"
+msgstr "סה\"כ כמות"
+
+#: includes/class-challan-pro-template.php:1083
+msgid "Qty"
+msgstr "כמות"
+
+#: includes/class-challan-pro-orders.php:454
+#: includes/class-challan-pro-template.php:1101
+msgid "Dimensions"
+msgstr "מידות"
+
+#: includes/class-challan-pro-orders.php:457
+#: includes/class-challan-pro-template.php:1105
+msgid "Weight"
+msgstr "משקל"
+
+#: includes/class-challan-pro-template.php:1084
+msgid "Total"
+msgstr "סה\"כ"
+
+#: admin/partials/challan-pro-admin-display.php:2509
+#: includes/class-challan-pro-template.php:1247
+msgid "Fees"
+msgstr "עמלות"
+
+#: includes/class-challan-pro-template.php:1088
+#: includes/class-challan-pro-template.php:1093
+msgid "Tax"
+msgstr "מע\"מ"
+
+#: admin/partials/challan-pro-admin-display.php:2599
+msgid "Discount"
+msgstr "הנחה"
+
+#: includes/class-challan-pro-template.php:1263
+msgid "Order Total With Tax"
+msgstr "סה\"כ ללא מע\"מ"
+
+#: includes/class-challan-pro-template.php:1263
+msgid "Order Total Without Tax"
+msgstr "סה\"כ ללא מע\"מ"
+
+#: includes/class-challan-pro-template.php:1293
+msgid "Order Total"
+msgstr "סה\"כ כולל מע\"מ"
+
+#: includes/class-challan-pro-template.php:1214
+#: includes/class-challan-pro-template.php:1297
+msgid "Refund"
+msgstr "החזרים"
+
+#: admin/partials/challan-pro-admin-display.php:522
+#: admin/partials/challan-pro-admin-display.php:3527
+#: includes/class-challan-pro-template.php:1409
+msgid "Customer Note"
+msgstr "הערת לקוח"
+
+#: admin/partials/challan-pro-admin-display.php:1477
+msgid "Signature"
+msgstr "חתימה דיגיטלית"
+
+#: includes/class-challan-pro-template.php:1503
+msgid "Authorized Signature"
+msgstr "חתימה מורשה"
+
+#: admin/partials/challan-pro-admin-display.php:2645
+msgid "Bank Accounts"
+msgstr "חתימה דיגיטלית"
+
+#: includes/class-challan-pro-template.php:1464
+msgid "Account Name"
+msgstr "שם חשבון בנק"
+
+#: includes/class-challan-pro-template.php:1078
+msgid "Item"
+msgstr "פריט"
+
+#: includes/class-challan-pro-template.php:1233
+msgid "Coupon(s)"
+msgstr "קופונים"
+
+#: includes/class-challan-pro-template.php:1463
+msgid "Bank Name"
+msgstr "שם הבנק"
+
+#: includes/class-challan-pro-template.php:1465
+msgid "Account No"
+msgstr "שם הלקוח"
+
+#: includes/class-challan-pro-template.php:1466
+msgid "Sort Code"
+msgstr "מספר הבנק"
+
+#: includes/class-challan-pro-template.php:1467
+msgid "IBAN"
+msgstr "IBAN"
+
+#: includes/class-challan-pro-template.php:1468
+msgid "BIC/Swift"
+msgstr "BIC/Swift"
+
+#: includes/class-challan-pro-template.php:1336
+msgid "Total Weight"
+msgstr "משקל"
+
+#: includes/class-challan-pro-template.php:1352
+msgid "Refund Address"
+msgstr "החזרים"
+
+#: includes/class-challan-pro-helper.php:187
+msgid "Phone"
+msgstr "טלפון"
+
+#: includes/class-challan-pro-helper.php:190
+msgid "Email"
+msgstr "אימייל"
+
+#: includes/class-challan-pro-helper.php:420
+msgid "VAT Number"
+msgstr "מספר עוסק"
+
+#: includes/class-challan-pro-orders.php:475
+msgid "Category"
+msgstr "קטגוריה"
+
+#: includes/class-challan-pro-orders.php:397
+msgid "Description"
+msgstr "תיאור"
+
+#: includes/class-challan-pro-orders.php:616
+msgid "Duration"
+msgstr "משך"
+
+#: includes/class-challan-pro-orders.php:619
+msgid "From"
+msgstr "מ"
+
+#: includes/class-challan-pro-orders.php:622
+msgid "To"
+msgstr "אל"
+
+#: includes/class-challan-pro-template.php:1217
+msgid "Items Subtotal"
+msgstr "כמות פריטים"
+
+#: includes/class-challan-pro-orders.php:316
+msgid "ID"
+msgstr "מזהה"
+
+#: includes/class-challan-pro-orders.php:319
+msgid "SKU"
+msgstr "מק\"ט"
+
+msgid "Download Invoice"
+msgstr "חשבונית"

@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Challan Pro\n"
+"POT-Creation-Date: 2021-01-12 12:58+0600\n"
+"PO-Revision-Date: 2021-03-17 17:01+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: challan-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/class-challan-pro-template.php:715
+msgid "Billing"
+msgstr "thanh toán"
+
+#: includes/class-challan-pro-template.php:716
+#: includes/class-challan-pro-template.php:1253
+msgid "Shipping"
+msgstr "Giao hàng"
+
+#: admin/partials/challan-pro-admin-display.php:1600
+#: admin/partials/challan-pro-admin-display.php:1903
+#: includes/class-challan-pro-template.php:759
+msgid "Order Number"
+msgstr "Số đơn hàng"
+
+#: includes/class-challan-pro-template.php:764
+msgid "Order Date"
+msgstr "Thời gian đặt hàng"
+
+#: admin/partials/challan-pro-admin-display.php:1872
+#: includes/class-challan-pro-template.php:742
+msgid "Invoice Number"
+msgstr "Số hóa đơn"
+
+#: includes/class-challan-pro-template.php:1298
+msgid "Net Payment"
+msgstr "Thanh toán ròng"
+
+#: includes/class-challan-pro-template.php:775
+msgid "Shipping Method"
+msgstr "Phương thức giao hàng"
+
+#: includes/class-challan-pro-template.php:769
+msgid "Payment Method"
+msgstr "Phương thức thanh toán"
+
+#: includes/class-challan-pro-template.php:782
+msgid "Delivery Date"
+msgstr "Lịch giao hàng"
+
+#: includes/class-challan-pro-template.php:788
+msgid "Time Slot"
+msgstr "Ô Thời Gian"
+
+#: admin/partials/challan-pro-admin-display.php:178
+#: admin/partials/challan-pro-admin-display.php:4166
+#: includes/class-challan-pro-hooks.php:708
+msgid "Invoice"
+msgstr "Hóa đơn"
+
+#: admin/partials/challan-pro-admin-display.php:186
+#: admin/partials/challan-pro-admin-display.php:4167
+#: includes/class-challan-pro-hooks.php:523
+#: includes/class-challan-pro-hooks.php:713
+#: includes/class-challan-pro-hooks.php:794
+msgid "Packing Slip"
+msgstr "Phiếu Giao Hàng"
+
+#: admin/partials/challan-pro-admin-display.php:226
+#: includes/class-challan-pro-hooks.php:719
+#: includes/class-challan-pro-hooks.php:804
+msgid "Delivery Address"
+msgstr "Hãng vận chuyển"
+
+#: includes/class-challan-pro-hooks.php:580
+#: includes/class-challan-pro-hooks.php:663
+#: includes/class-challan-pro-template.php:225
+msgid "Credit Note"
+msgstr "Ghi chú tín dụng"
+
+#: includes/class-challan-pro-template.php:1082
+msgid "Cost"
+msgstr "Giá cả"
+
+#: includes/class-challan-pro-template.php:1106
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: includes/class-challan-pro-template.php:1329
+msgid "Total Quantity"
+msgstr "Tổng số lượng"
+
+#: includes/class-challan-pro-template.php:1083
+msgid "Qty"
+msgstr "Số lượng"
+
+#: includes/class-challan-pro-orders.php:454
+#: includes/class-challan-pro-template.php:1101
+msgid "Dimensions"
+msgstr "Kích thước"
+
+#: includes/class-challan-pro-orders.php:457
+#: includes/class-challan-pro-template.php:1105
+msgid "Weight"
+msgstr "Trọng lượng"
+
+#: includes/class-challan-pro-template.php:1084
+msgid "Total"
+msgstr "Tổng"
+
+#: admin/partials/challan-pro-admin-display.php:2509
+#: includes/class-challan-pro-template.php:1247
+msgid "Fees"
+msgstr "Phí"
+
+#: includes/class-challan-pro-template.php:1088
+#: includes/class-challan-pro-template.php:1093
+msgid "Tax"
+msgstr "Thuế"
+
+#: admin/partials/challan-pro-admin-display.php:2599
+msgid "Discount"
+msgstr "Giảm giá"
+
+#: includes/class-challan-pro-template.php:1263
+msgid "Order Total With Tax"
+msgstr "Tổng đơn đặt hàng có thuế"
+
+#: includes/class-challan-pro-template.php:1263
+msgid "Order Total Without Tax"
+msgstr "Tổng đơn hàng không tính thuế"
+
+#: includes/class-challan-pro-template.php:1293
+msgid "Order Total"
+msgstr "Thành tiền"
+
+#: includes/class-challan-pro-template.php:1214
+#: includes/class-challan-pro-template.php:1297
+msgid "Refund"
+msgstr "Hoàn tiền"
+
+#: admin/partials/challan-pro-admin-display.php:522
+#: admin/partials/challan-pro-admin-display.php:3527
+#: includes/class-challan-pro-template.php:1409
+msgid "Customer Note"
+msgstr "Ghi chú khách hàng"
+
+#: admin/partials/challan-pro-admin-display.php:1477
+msgid "Signature"
+msgstr "Chữ ký"
+
+#: includes/class-challan-pro-template.php:1503
+msgid "Authorized Signature"
+msgstr "Chữ ký ủy quyền"
+
+#: admin/partials/challan-pro-admin-display.php:2645
+msgid "Bank Accounts"
+msgstr "Ngân hàng"
+
+#: includes/class-challan-pro-template.php:1464
+msgid "Account Name"
+msgstr "Tên tài khoản"
+
+#: includes/class-challan-pro-template.php:1078
+msgid "Item"
+msgstr "Sản phẩm"
+
+#: includes/class-challan-pro-template.php:1233
+msgid "Coupon(s)"
+msgstr "Mã ưu đãi"
+
+#: includes/class-challan-pro-template.php:1463
+msgid "Bank Name"
+msgstr "Tên ngân hàng"
+
+#: includes/class-challan-pro-template.php:1465
+msgid "Account No"
+msgstr "Số tài khoản"
+
+#: includes/class-challan-pro-template.php:1466
+msgid "Sort Code"
+msgstr "Sort code"
+
+#: includes/class-challan-pro-template.php:1467
+msgid "IBAN"
+msgstr "IBAN"
+
+#: includes/class-challan-pro-template.php:1468
+msgid "BIC/Swift"
+msgstr "BIC/Swift"
+
+#: includes/class-challan-pro-template.php:1336
+#, fuzzy
+#| msgid "Weight"
+msgid "Total Weight"
+msgstr "Trọng lượng"
+
+#: includes/class-challan-pro-template.php:1352
+#, fuzzy
+#| msgid "Refund"
+msgid "Refund Address"
+msgstr "Hoàn tiền"
+
+#: includes/class-challan-pro-helper.php:187
+msgid "Phone"
+msgstr ""
+
+#: includes/class-challan-pro-helper.php:190
+msgid "Email"
+msgstr ""
+
+#: includes/class-challan-pro-helper.php:420
+#, fuzzy
+#| msgid "Order Number"
+msgid "VAT Number"
+msgstr "Số đơn hàng"
+
+#: includes/class-challan-pro-orders.php:475
+msgid "Category"
+msgstr ""
+
+#: includes/class-challan-pro-orders.php:397
+msgid "Description"
+msgstr ""
+
+#: includes/class-challan-pro-orders.php:616
+msgid "Duration"
+msgstr ""
+
+#: includes/class-challan-pro-orders.php:619
+msgid "From"
+msgstr ""
+
+#: includes/class-challan-pro-orders.php:622
+msgid "To"
+msgstr ""
+
+#: includes/class-challan-pro-template.php:1217
+msgid "Items Subtotal"
+msgstr ""
+
+#: includes/class-challan-pro-orders.php:316
+msgid "ID"
+msgstr ""
+
+#: includes/class-challan-pro-orders.php:319
+msgid "SKU"
+msgstr ""
+
+msgid "Download Invoice"
+msgstr "Tải xuống hóa đơn"
